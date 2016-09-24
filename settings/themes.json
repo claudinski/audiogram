@@ -91,5 +91,20 @@
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "nyc.png"
-  }
+  },
+   "Sfondo con testo alto a dx": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "subway.jpg",
+    "foregroundColor": "#fc0",
+    "waveBottom": 660,
+"waveTop": 320
+  }, 
+  "Mattoni impilati Acquaplast": {
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#2A4394",
+    "pattern": "bricks"
+  },   
 }
